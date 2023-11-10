@@ -1,0 +1,88 @@
+.home-page{
+    background-color: red;
+}
+.img-content{
+    position:relative;
+}
+.video-content{
+    position:relative;
+    bottom: 10%;
+    align-items: center;
+    background-color: black;
+    color: #ffff;
+    justify-content: center;
+    text-align: center;
+}
+.content-title{
+    position: absolute;
+    top: -200px;
+    z-index: 1001;
+    margin: 0 auto;
+    width: 100%;
+}
+.button-conten button{
+    border-radius: 15px;
+    margin-top: 15px;
+    padding: 5px 20px;
+    background-color: hsla(0,0%,100%,.2);
+    color: #ffff;
+    border:1px solid #ffff;
+}
+.button-conten{
+    text-align: center;
+    justify-content: center;
+}
+.button-conten button:nth-child(1){
+    margin-right: 10px;
+}
+.logo_lv{
+    color: #ffffff;
+}
+.lv-menu{
+    display: flex;
+    gap: 25px;
+}
+.lv-menu a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.header-video video{
+    width: 100%;
+    height: 100%;
+}
+.header-video img{
+    width: 100%;
+    height: 100%;
+}
+.offcanvas-body ul{
+    list-style: none;
+}
+.offcanvas-body ul li a{
+    text-decoration: none;
+    color: black;
+
+}
+.service {
+    padding: 30px 0;
+}
+.service h2{
+    text-align: center;
+    padding: 30px 0;
+}
+.service .container .card img{
+    width: 100%;
+    height: 50%;
+}
+.name-brand-end h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.lv-footer{
+    padding: 20px 0;
+}
+.address-end {
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+

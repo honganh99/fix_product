@@ -1,0 +1,25 @@
+.header-img{
+    width: 100%;
+}
+.product-card{
+    margin: auto;
+    padding: 50px 70px;
+}
+.product-bag{
+    background-color: rgb(237, 237, 237);
+}
+.product-bag h2{
+    text-align: center;
+    padding-top: 50px;
+}
+.name-cart{
+    display: flex;
+    justify-content: space-between;
+}
+.name-cart i{
+    color: black;
+}
+/* .scroll-container {
+    overflow: auto;
+    max-height: 300px;
+  } */
